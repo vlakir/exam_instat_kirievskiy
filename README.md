@@ -1,1 +1,1 @@
-# test_instat
+# Тестовое задание InStat
